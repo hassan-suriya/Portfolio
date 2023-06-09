@@ -29,4 +29,4 @@ Features:
 
 Images:
 =======
-![alt text]([image_url](https://drive.google.com/file/d/1k9ZK7yuHn1bHEXAYUXF3v7NZP76P4Rqv/view?usp=drive_link))
+![alt text](https://drive.google.com/file/d/1k9ZK7yuHn1bHEXAYUXF3v7NZP76P4Rqv/view?usp=drive_link)
