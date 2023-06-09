@@ -27,4 +27,47 @@ Features:
 
 Images:
 =======
-![alt text](https://drive.google.com/file/d/1k9ZK7yuHn1bHEXAYUXF3v7NZP76P4Rqv/view?usp=drive_link)
+1. Login:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/HiringHotspotLogin.png)
+
+2. Registration:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/HiringHotspotRegistration.png)
+
+FREELANCER INTERFACE:
+====================
+
+1. Job Feed:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/Freelancer/JobFeed.png)
+
+2. Messaging:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/Freelancer/Messaging.png)
+
+3. Edit Profile:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/Freelancer/EditProfile.png)
+
+4. Wallet:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/Freelancer/Wallet.png)
+
+5. My Jobs:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Images/Freelancer/MyJobs.png) 
+
+CLIENT INTERFACE:
+================
+
+1. Posted Jobs:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/PostedJobs.png)
+
+Posted Jobs (Sub-Interface):
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/Applications.png)
+
+2. Active Jobs:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/ActiveJobs.png)
+
+3. Active Jobs (Sub-Interface):
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/ActiveJobs2.png)
+
+4. Messaging:
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/Messaging.png)
+
+5. Edit Profile:
+![alt text])(https://github.com/hassan-suriya/Portfolio/blob/main/Client/EditProfile.png)
