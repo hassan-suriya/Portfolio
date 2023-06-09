@@ -12,9 +12,15 @@ Features:
 ===========
 
 • Chatting
+
 • Jobs Posting
+
 • Job Application
+
 • Job Approval Feature
+
 • Wallet Management
+
 • Funds Protection for Freelancers
+
 • and many more
