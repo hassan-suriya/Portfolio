@@ -12,6 +12,7 @@ Features:
 ===========
 
 • Chatting
+
 • Jobs Posting
 • Job Application
 • Job Approval Feature
