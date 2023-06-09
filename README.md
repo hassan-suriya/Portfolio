@@ -70,4 +70,4 @@ Posted Jobs (Sub-Interface):
 ![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/Messaging.png)
 
 5. Edit Profile:
-![alt text])(https://github.com/hassan-suriya/Portfolio/blob/main/Client/EditProfile.png)
+![alt text](https://github.com/hassan-suriya/Portfolio/blob/main/Client/EditProfile.png)
